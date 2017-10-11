@@ -1,5 +1,7 @@
 ## Tic-tac-toe
 
+![game](/game.png)
+
 - Coding a tic-tac-toe game with the popular ReactJS.
 
 ### Instructions For Playing
